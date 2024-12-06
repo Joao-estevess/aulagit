@@ -1,0 +1,1 @@
+// considere esse arquivo um exemplo de um arquivo JSON, seja um script ou funcionalidade.
